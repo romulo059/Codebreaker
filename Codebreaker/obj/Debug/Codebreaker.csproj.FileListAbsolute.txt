@@ -1,0 +1,14 @@
+E:\Documentos\Trabalhos\2019\Pacific Security\Codebreaker\Codebreaker\Codebreaker\obj\Debug\Codebreaker.csprojResolveAssemblyReference.cache
+E:\Documentos\Trabalhos\2019\Pacific Security\Codebreaker\Codebreaker\Codebreaker\obj\Debug\Codebreaker.csproj.CoreCompileInputs.cache
+E:\Documentos\Trabalhos\2019\Pacific Security\Codebreaker\Codebreaker\Codebreaker\bin\Debug\Codebreaker.exe.config
+E:\Documentos\Trabalhos\2019\Pacific Security\Codebreaker\Codebreaker\Codebreaker\bin\Debug\Codebreaker.exe
+E:\Documentos\Trabalhos\2019\Pacific Security\Codebreaker\Codebreaker\Codebreaker\bin\Debug\Codebreaker.pdb
+E:\Documentos\Trabalhos\2019\Pacific Security\Codebreaker\Codebreaker\Codebreaker\obj\Debug\Codebreaker.exe
+E:\Documentos\Trabalhos\2019\Pacific Security\Codebreaker\Codebreaker\Codebreaker\obj\Debug\Codebreaker.pdb
+E:\Codebreaker\Codebreaker\bin\Debug\Codebreaker.exe.config
+E:\Codebreaker\Codebreaker\bin\Debug\Codebreaker.exe
+E:\Codebreaker\Codebreaker\bin\Debug\Codebreaker.pdb
+E:\Codebreaker\Codebreaker\obj\Debug\Codebreaker.csprojAssemblyReference.cache
+E:\Codebreaker\Codebreaker\obj\Debug\Codebreaker.csproj.CoreCompileInputs.cache
+E:\Codebreaker\Codebreaker\obj\Debug\Codebreaker.exe
+E:\Codebreaker\Codebreaker\obj\Debug\Codebreaker.pdb
